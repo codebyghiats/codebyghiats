@@ -20,7 +20,7 @@ Currently focusing on crafting modern websites with:
 - Instagram: [@ghiatsajalah](https://instagram.com/ghiatsajalah)  
 - Email: **ghiatsabdurahman@gmail.com**
 
-🧠 Fun fact:
+
 > “Do it with passion or not at all.” 💻🔥
 
 ---
