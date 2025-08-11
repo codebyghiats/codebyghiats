@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 
-![https://https://www.instagram.com/ghiatsajalah](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/ghiats-abdurahman-rasyid-86a445364](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghiatsajalah) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
 ## 📊 GitHub Stats:
 
