@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning: Laravel & Node.js to strengthen my full-stack skills  
+- 🌱 I’m currently Learning: Laravel & Node.js to strengthen my full-stack skills  
 - 👯 I’m looking to collaborate on: Frontend projects with stunning UI/UX  
 - 🤔 I’m looking for help with: Advanced backend integration for frontend-heavy apps  
 - 💬 Ask me about: HTML, CSS, JavaScript, PHP, MySQL, C#, C++
